@@ -1,0 +1,15 @@
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\bin\Debug\net6.0\CoolerDevice.exe
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\bin\Debug\net6.0\CoolerDevice.deps.json
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\bin\Debug\net6.0\CoolerDevice.runtimeconfig.json
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\bin\Debug\net6.0\CoolerDevice.dll
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\bin\Debug\net6.0\ref\CoolerDevice.dll
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\bin\Debug\net6.0\CoolerDevice.pdb
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\CoolerDevice.csproj.AssemblyReference.cache
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\CoolerDevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\CoolerDevice.AssemblyInfoInputs.cache
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\CoolerDevice.AssemblyInfo.cs
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\CoolerDevice.csproj.CoreCompileInputs.cache
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\CoolerDevice.dll
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\ref\CoolerDevice.dll
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\CoolerDevice.pdb
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\HeatRegulator\obj\Debug\net6.0\CoolerDevice.genruntimeconfig.cache

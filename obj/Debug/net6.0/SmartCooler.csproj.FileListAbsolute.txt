@@ -1,0 +1,15 @@
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\bin\Debug\net6.0\SmartCooler.exe
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\bin\Debug\net6.0\SmartCooler.deps.json
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\bin\Debug\net6.0\SmartCooler.runtimeconfig.json
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\bin\Debug\net6.0\SmartCooler.dll
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\bin\Debug\net6.0\ref\SmartCooler.dll
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\bin\Debug\net6.0\SmartCooler.pdb
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\SmartCooler.csproj.AssemblyReference.cache
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\SmartCooler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\SmartCooler.AssemblyInfoInputs.cache
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\SmartCooler.AssemblyInfo.cs
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\SmartCooler.csproj.CoreCompileInputs.cache
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\SmartCooler.dll
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\ref\SmartCooler.dll
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\SmartCooler.pdb
+C:\Users\chiyu\OneDrive\Desktop\Portfolio\CoolerDeviceApplication\obj\Debug\net6.0\SmartCooler.genruntimeconfig.cache
